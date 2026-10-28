@@ -1,4 +1,4 @@
-# ¡Hola! Soy Iskra 👋
+# ¡Hola! Soy Iskrac 👋
 
 ## 💻 Sobre mí
 * 🎓 Estudiante / Desarrolladora de Informática.
